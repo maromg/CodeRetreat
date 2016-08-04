@@ -16,3 +16,6 @@ C:\Users\mgilboa\Documents\Visual Studio 2013\Projects\CodeRetreat\SrpOcpValid\o
 C:\Users\mgilboa\Documents\Visual Studio 2013\Projects\CodeRetreat\SrpOcpValid\bin\Debug\SrpOcpValid.exe
 C:\Users\mgilboa\Documents\Visual Studio 2013\Projects\CodeRetreat\SrpOcpValid\bin\Debug\SrpOcpValid.pdb
 C:\Users\mgilboa\Documents\Visual Studio 2013\Projects\CodeRetreat\SrpOcpValid\obj\Debug\SrpOcpValid.csprojResolveAssemblyReference.cache
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpValid\bin\Debug\SrpOcpValid.exe.config
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpValid\obj\Debug\SrpOcpValid.exe
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpValid\obj\Debug\SrpOcpValid.pdb

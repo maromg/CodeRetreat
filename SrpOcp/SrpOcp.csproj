@@ -7,8 +7,8 @@
     <ProjectGuid>{C2191F0D-EAC2-4EDA-A04A-EBD929039B4B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SrpOcpValid</RootNamespace>
-    <AssemblyName>SrpOcpValid</AssemblyName>
+    <RootNamespace>SrpOcp</RootNamespace>
+    <AssemblyName>SrpOcp</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
