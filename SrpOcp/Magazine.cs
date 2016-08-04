@@ -1,7 +1,9 @@
 ﻿namespace SrpOcpValid
 {
-    public class Magazine : IPrintable
+    public class Magazine : IReadable
     {
+        public int Id { get; set; }
+        public int TotalNumberOfPages { get; set; }
         public string Name { get; set; }
     }
 }

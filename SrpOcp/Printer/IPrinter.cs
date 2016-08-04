@@ -1,4 +1,4 @@
-﻿namespace SrpOcpValid.Printer
+﻿namespace SrpOcp.Printer
 {
     public interface IPrinter<T>
     {

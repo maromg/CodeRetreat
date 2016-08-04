@@ -1,7 +1,8 @@
 ﻿using System;
-using SrpOcpValid.Printer;
+using SrpOcp.Printer;
+using SrpOcpValid;
 
-namespace SrpOcpValid
+namespace SrpOcp
 {
     class Program
     {
@@ -11,7 +12,7 @@ namespace SrpOcpValid
             PageTurner pageTurner = new PageTurner();
             IPrinter<Book> bookPrinter = new BookPrinter();
 
-            Book book = booksLibrary.Rent(bookId: 1);
+            IReadable book = booksLibrary.Rent(bookId: 1);
 
             for (int i = 1; i < book.TotalNumberOfPages; i++)
             {
@@ -20,7 +21,7 @@ namespace SrpOcpValid
 
             booksLibrary.Return(book.Id);
 
-            bookPrinter.Print(book);
+            bookPrinter.Print((Book)book);
 
             Console.ReadKey();
         }

@@ -17,3 +17,8 @@ C:\Users\mgilboa\Documents\Visual Studio 2013\Projects\CodeRetreat\SrpOcpViolati
 C:\Users\mgilboa\Documents\Visual Studio 2013\Projects\CodeRetreat\SrpOcpViolation\bin\Debug\SrpOcpViolation.exe
 C:\Users\mgilboa\Documents\Visual Studio 2013\Projects\CodeRetreat\SrpOcpViolation\bin\Debug\SrpOcpViolation.pdb
 C:\Users\mgilboa\Documents\Visual Studio 2013\Projects\CodeRetreat\SrpOcpViolation\obj\Debug\SrpOcpViolation.csprojResolveAssemblyReference.cache
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpViolation\bin\Debug\SrpOcpViolation.exe.config
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpViolation\obj\Debug\SrpOcpViolation.exe
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpViolation\obj\Debug\SrpOcpViolation.pdb
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpViolation\bin\Debug\SrpOcpViolation.exe
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpViolation\bin\Debug\SrpOcpViolation.pdb

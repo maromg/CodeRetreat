@@ -1,1 +1,6 @@
 C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpValid\bin\Debug\SrpOcp.exe.config
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcp\bin\Debug\SrpOcp.exe.config
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcp\bin\Debug\SrpOcp.exe
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcp\bin\Debug\SrpOcp.pdb
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcp\obj\Debug\SrpOcp.exe
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcp\obj\Debug\SrpOcp.pdb

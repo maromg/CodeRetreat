@@ -1,0 +1,7 @@
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\Solid\bin\Debug\Solid.exe.config
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\Solid\bin\Debug\Solid.exe
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\Solid\bin\Debug\Solid.pdb
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\Solid\bin\Debug\Ninject.dll
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\Solid\bin\Debug\Ninject.xml
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\Solid\obj\Debug\Solid.exe
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\Solid\obj\Debug\Solid.pdb

@@ -1,8 +1,8 @@
-﻿using System;
+﻿using SrpOcpValid;
 
-namespace SrpOcpValid
+namespace SrpOcp
 {
-    public class Book : IPrintable
+    public class Book : IReadable
     {
         public int Id { get; set; }
         public int TotalNumberOfPages { get; set; }

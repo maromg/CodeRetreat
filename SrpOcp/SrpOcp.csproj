@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Book.cs" />
-    <Compile Include="IPrintable.cs" />
+    <Compile Include="IReadable.cs" />
     <Compile Include="Printer\BookPrinter.cs" />
     <Compile Include="BooksDatabase.cs" />
     <Compile Include="BooksLibrary.cs" />

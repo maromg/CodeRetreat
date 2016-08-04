@@ -1,4 +1,6 @@
-﻿namespace SrpOcpValid
+﻿using SrpOcp;
+
+namespace SrpOcpValid
 {
     public class BooksRepository
     {

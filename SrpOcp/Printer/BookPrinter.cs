@@ -1,6 +1,8 @@
 using System;
+using SrpOcpValid;
+using SrpOcpValid.Printer;
 
-namespace SrpOcpValid.Printer
+namespace SrpOcp.Printer
 {
     public class BookPrinter : IPrinter<Book>
     {
