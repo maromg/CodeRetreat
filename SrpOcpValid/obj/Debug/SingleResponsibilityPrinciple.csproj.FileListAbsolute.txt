@@ -1,0 +1,1 @@
+c:\users\mgilboa\documents\visual studio 2013\Projects\Solid\bin\Debug\SingleResponsibilityPrinciple.exe.config
