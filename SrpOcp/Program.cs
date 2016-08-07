@@ -1,5 +1,4 @@
 ﻿using System;
-using SrpOcp.Printer;
 using SrpOcpValid;
 
 namespace SrpOcp
@@ -8,11 +7,23 @@ namespace SrpOcp
     {
         static void Main(string[] args)
         {
+            Magazine magazine = new Magazine
+            {
+                Name = "AWESOME CODE RETREAT @ PICSCOUT",
+                TotalNumberOfPages = 100
+            };
+
+            Newspaper newspaper = new Newspaper
+            {
+                Name = "AWESOME CODE RETREAT @ PICSCOUT",
+                TotalNumberOfPages = 100
+            };
+
             BooksLibrary booksLibrary = new BooksLibrary();
             PageTurner pageTurner = new PageTurner();
-            IPrinter<Book> bookPrinter = new BookPrinter();
+            Printer printer = new Printer();
 
-            IReadable book = booksLibrary.Rent(bookId: 1);
+            Book book = booksLibrary.Rent(bookId: 1);
 
             for (int i = 1; i < book.TotalNumberOfPages; i++)
             {
@@ -21,7 +32,9 @@ namespace SrpOcp
 
             booksLibrary.Return(book.Id);
 
-            bookPrinter.Print((Book)book);
+            printer.Print(book);
+            printer.Print(newspaper);
+            printer.Print(magazine);
 
             Console.ReadKey();
         }

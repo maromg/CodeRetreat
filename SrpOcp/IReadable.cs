@@ -1,4 +1,4 @@
-﻿namespace SrpOcpValid
+﻿namespace SrpOcp
 {
     public interface IReadable
     {

@@ -28,5 +28,13 @@ namespace SrpOcpViolation
             Console.WriteLine("Returning book id: {0}", this.Id);
             this.Status = RentalStatus.Available;
         }
+
+        public void Print()
+        {
+            Console.WriteLine("Printing: {0} - {1} - {2}",
+                this.Name,
+                this.AuthorName,
+                this.TotalNumberOfPages);
+        }
     }
 }

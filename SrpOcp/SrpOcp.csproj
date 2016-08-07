@@ -43,17 +43,14 @@
   <ItemGroup>
     <Compile Include="Book.cs" />
     <Compile Include="IReadable.cs" />
-    <Compile Include="Printer\BookPrinter.cs" />
+    <Compile Include="Printer.cs" />
     <Compile Include="BooksDatabase.cs" />
     <Compile Include="BooksLibrary.cs" />
     <Compile Include="BooksRepository.cs" />
-    <Compile Include="Printer\MagazinePrinter.cs" />
-    <Compile Include="Printer\NewspaperPrinter.cs" />
     <Compile Include="RentalStatus.cs" />
     <Compile Include="Magazine.cs" />
     <Compile Include="Newspaper.cs" />
     <Compile Include="PageTurner.cs" />
-    <Compile Include="Printer\IPrinter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

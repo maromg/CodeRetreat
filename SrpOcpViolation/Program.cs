@@ -6,7 +6,8 @@ namespace SrpOcpViolation
     {
         static void Main(string[] args)
         {
-            Printer printer = new Printer();
+            Magazine magazine = new Magazine("WOW, This code retreat is awesome", 25);
+            Newspaper newspaper = new Newspaper("AWESOME CODE RETREAT @ PICSCOUT", 25);
             Book book = BooksDatabase.Collection[1];
 
             book.Rent();
@@ -18,9 +19,9 @@ namespace SrpOcpViolation
 
             book.Return();
 
-            printer.Print(book);
-            printer.Print(new Magazine("WOW, This code retreat is awesome"));
-            printer.Print(new Newspaper("AWESOME CODE RETREAT @ PICSCOUT"));
+            magazine.Print();
+            newspaper.Print();
+            book.Print();
 
             Console.ReadLine();
         }

@@ -22,3 +22,4 @@ C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpViolation\obj\De
 C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpViolation\obj\Debug\SrpOcpViolation.pdb
 C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpViolation\bin\Debug\SrpOcpViolation.exe
 C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpViolation\bin\Debug\SrpOcpViolation.pdb
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcpViolation\obj\Debug\SrpOcpViolation.csprojResolveAssemblyReference.cache

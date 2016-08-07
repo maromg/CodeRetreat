@@ -4,3 +4,4 @@ C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcp\bin\Debug\SrpOc
 C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcp\bin\Debug\SrpOcp.pdb
 C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcp\obj\Debug\SrpOcp.exe
 C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcp\obj\Debug\SrpOcp.pdb
+C:\Users\mgilboa\Documents\Visual Studio 2013\CodeRetreat\SrpOcp\obj\Debug\SrpOcp.csprojResolveAssemblyReference.cache
